@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\bin\Debug\LINQ-Query-Zad-Sortiranje.exe.config
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\bin\Debug\LINQ-Query-Zad-Sortiranje.exe
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\bin\Debug\LINQ-Query-Zad-Sortiranje.pdb
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\obj\Debug\LINQ-Query-Zad-Sortiranje.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\obj\Debug\LINQ-Query-Zad-Sortiranje.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\obj\Debug\LINQ-Query-Zad-Sortiranje.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\obj\Debug\LINQ-Query-Zad-Sortiranje.exe
+C:\Users\ucenik\Documents\LINQ-Query-Zad-Sortiranje\LINQ-Query-Zad-Sortiranje\obj\Debug\LINQ-Query-Zad-Sortiranje.pdb
